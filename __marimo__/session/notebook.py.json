@@ -1,0 +1,53 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.17.7"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": null,
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "eITm",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PiYh",
+      "code_hash": "dee76c36c2fd4ca02be1bae702377257",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"birds-rule\">Birds RULE</h1>\n<span class=\"paragraph\">CRAWWW</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MHJv",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
